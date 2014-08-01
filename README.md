@@ -1,10 +1,23 @@
 docker-bap
 ==========
 
+TL;DR
+-----
+
+Already have docker and don't want to clone this repo and build it locally? Pull the d0cs4vage/docker-bap repo on (docker hub)[https://hub.docker.com/]:
+
+    sudo docker pull d0cs4vage/docker-bap
+    sudo docker run --rm -it d0cs4vage/docker-bap bash
+
+If you want to run a specific version of `docker-bap`, add a tag to the repository (only 0.7 is currently tagged):
+
+    sudo docker pull d0cs4vage/docker-bap:0.7
+
+
 Docker
 ------
 
-Read up about docker at [docker.com](http://docker.com). Install instructions can be found on their website.
+Read up on docker at [docker.com](http://docker.com). Install instructions can be found on their website.
 
 Too lazy to RTFM and running `Ubuntu 14.04`? Run
 
