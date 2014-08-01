@@ -1,6 +1,8 @@
 docker-bap
 ==========
 
+Run (BAP)[http://bap.ece.cmu.edu/] in a Docker container!
+
 TL;DR
 -----
 
