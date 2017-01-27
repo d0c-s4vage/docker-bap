@@ -1,3 +1,16 @@
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
+_NOTE_: I have no idea what state I left this in. IIRC there were some snags and I didn't get it up and running 100%. **HOWEVER**, there is an official BAP docker container here: https://hub.docker.com/r/binaryanalysisplatform/bap/ with its source code being here: https://github.com/BinaryAnalysisPlatform/bap.
+
+Happy hacking!
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+
 docker-bap
 ==========
 
